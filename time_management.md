@@ -1,4 +1,4 @@
-#_TIME MANAGEMENT_
+# TIME MANAGEMENT
 
 There are some key things to learn from today, they are listed below :
 
