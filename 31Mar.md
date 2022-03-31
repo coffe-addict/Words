@@ -13,11 +13,11 @@ Todaay I've completed some courses, they're as follows :-
 implementation of CLI like managing file system, network management, starting a server,etc.
 The most interesting one was scripting this is where I learned the most as it was hands on implementation of 
 bash (.sh) scripting language.
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```bash
+echo "All odd numbers less than 100"
+for i in {1..100..2}
+	echo " $i "
+exit 0
 ```
 
 ---
