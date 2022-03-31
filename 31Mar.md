@@ -9,11 +9,26 @@ Todaay I've completed some courses, they're as follows :-
 **This is what I've learned today :** 
 
 ### Introduction to Linux CLI.
+> Command Line Interface or call it CLI. The course was led by a very experienced instructor. He did many hands on 
+implementation of CLI like managing file system, network management, starting a server,etc.
+The most interesting one was scripting this is where I learned the most as it was hands on implementation of 
+bash (.sh) scripting language.
+
+'''bash
+for i in {1..99..1}
+	echo " This line is getting printed $i times. "
+exit 0
+
+'''
 
 ---
 ### Learning technology in the information age.
 > Information is a vast field, since information is basically available for free with access to anyone and
-everyone 
+everyone it is very hard to find relevant information(knowledge) out of it. 
+This course primarily focuses on the relation between fundamentals, information, knowledge, skills and 
+innovation. Strong fundamentals come in handy when starting a new job, but one must be willing to upgrade 
+in order to survive in the field of technology. As useful information today might become obselete tomorrow.
+With solid foundation, then diving into knowledge will increase your understanding along with working efficiency.
 
 ---
 ### Human-centered design.
