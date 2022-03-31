@@ -14,12 +14,11 @@ implementation of CLI like managing file system, network management, starting a 
 The most interesting one was scripting this is where I learned the most as it was hands on implementation of 
 bash (.sh) scripting language.
 
-'''bash
-for i in {1..99..1}
-	echo " This line is getting printed $i times. "
-exit 0
-
-'''
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 ---
 ### Learning technology in the information age.
