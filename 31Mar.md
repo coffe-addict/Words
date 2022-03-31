@@ -6,17 +6,36 @@ Todaay I've completed some courses, they're as follows :-
 * Human-centered design.
 ---
 
-This is what I've learned today : 
+**This is what I've learned today :** 
 
-## Introduction to Linux CLI.
+### Introduction to Linux CLI.
+
 ---
-## Learning technology in the information age.
+### Learning technology in the information age.
+> Information is a vast field, since information is basically available for free with access to anyone and
+everyone 
+
 ---
-## Human-centered design.
-> In this course the main focus was to distinguish between human-centered design and design thinking
-	* Human centered design.
-	> It is focused on consumer ease. 
-	> 
+### Human-centered design.
+> In this course the main focus was to distinguish between human-centered design and design thinking.
+Human centered design focuses on user/client ease. i.e the main purpose to implement human-centered design
+technique is to keep in mind what experience will the user experience after using your product/service.
+It's a four stage process.
+**Discovery**
+Before developing your product you must be aware about requirements of the client or problems encountered 
+by them. If you are developin software/product for anyone other than yourself, ask the question why and who 
+should use your product? What's their feedback after using your product?, Does it solve the problem it is 
+required to solve? 
+**Ideation**
+When you have understanding of the whole picture and the requirements of the project. Start designing them
+as per your mind map or any idea you have related to it.
+**Implementation**
+This is the part where your idea turns into reality or comes as a solution to the problem or you develop 
+a new product as per the client.
+**Validation**
+This is the part where you get to know feedback of what you have developed as a service or a product before
+handing over it to the client. If there is gap between what you have developed and what was required to be 
+developed, validation gives you feedback where you can bridge this gap.
 
 
 
