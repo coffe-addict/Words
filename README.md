@@ -1,11 +1,13 @@
 Hello, programmers this is a repository just to check what I have learned from pluralsight course.
 Introduction to git and its working. 
-I am getting started to know it, appears to  be very powerful tool.
 
+Here is the list of courses that I've completed on pluralsight : 
 
-This message is nothing.
+1. Getting started with linux.
+1. Learning Technology in information age.
+1. Getting started with Linux CLI.
+1. Human-Centered Design.
+1. Getting started with git.
+1. How git works.(Great course)
 
-
-Now editing this line will show me how after adding this file to tracked area, 
-I'm modifying this line, for it to be moved to modified area.
 
